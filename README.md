@@ -1,232 +1,181 @@
-<!-- HERO SECTION -->
+# Hi 👋, I'm Gajula Indra Karan
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Gajula+Indra+Karan;AI+Engineer+%7C+ML+Engineer;Generative+AI+%7C+LLMs+%7C+RAG;Full+Stack+Developer;Building+Intelligent+Products+🚀" />
-</h1>
-
-<h3 align="center">
-🎓 IIT Madras | 🤖 AI Engineer | 🚀 Full Stack Developer
-</h3>
+### Machine Learning Engineer | Generative AI Developer | IIT Madras
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=indrakaran1411&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+  <a href="https://indrakaran1411.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/indrakarangajula">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Indrakaran1411">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 B.Tech Aerospace Engineering @ IIT Madras
+
+🤖 Machine Learning & Generative AI Enthusiast
+
+🧠 Interested in:
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI Systems
+- MLOps
+- Cloud Computing
+
+🌱 Currently Learning:
+- Advanced LLM Fine-Tuning
+- LangGraph
+- Multi-Agent Systems
+- Distributed Systems
+- AWS Cloud Architecture
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Machine Learning & AI
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+- NumPy
+- Pandas
+- Scikit-Learn
+- Hugging Face Transformers
+- LangChain
+- LangGraph
+- NLTK
+- MLflow
+- Airflow
+- Generative AI
+- RAG Systems
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🏆 Achievements
+
+🥇 Top 0.3 Percentile in JEE Mains
+
+🥈 National Runner-Up in Abacus & Mental Arithmetic Competition
+
+🏅 Top 0.2% Rank in EAMCET
+
+🏅 Top 0.05 Percentile in TS-POLYCET
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Fine-Tuned Mistral-7B LLM
+
+- Fine-tuned Mistral-7B using QLoRA
+- Reduced memory footprint by ~65%
+- Built Medical Question Answering Assistant
+- Developed interactive Gradio interface
+
+### 📄 Insurance Policy RAG Assistant
+
+- Production-grade RAG System
+- LangChain + Gemini + Qdrant
+- Semantic Search & Source Attribution
+- FastAPI Backend
+
+### 🤖 Customer Service Agent
+
+- Full-stack customer support platform
+- Real-time communication
+- Automated query classification & routing
+- JWT Authentication
+
+### 🩺 Diabetes Risk Assessment System
+
+- 98% Prediction Accuracy
+- Autoencoder + Random Forest
+- Dockerized
+- AWS Deployment
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Indrakaran1411&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-
-<a href="https://indrakaran1411.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/indrakaran1411">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
-<hr>
-
-<h2 align="center">🚀 About Me</h2>
-
-<table align="center">
-<tr>
-<td>
-
-🔹 B.Tech @ IIT Madras
-
-🔹 AI & Machine Learning Enthusiast
-
-🔹 Building Production Ready AI Systems
-
-🔹 Working on LLMs & RAG Applications
-
-🔹 Exploring MLOps & Cloud Technologies
-
-🔹 Open Source Contributor
-
-</td>
-</tr>
-</table>
-
-<hr>
-
-<h2 align="center">⚡ Tech Stack</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,html,css"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indrakaran1411&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indrakaran1411&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,aws,gcp"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Indrakaran1411&theme=tokyo-night" />
 </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github"/>
-</p>
+---
 
-<hr>
+## 🌐 Portfolio
 
-<h2 align="center">🤖 AI & GenAI Skills</h2>
+🔗 https://indrakaran1411.github.io/
 
-<p align="center">
+---
 
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+## 🤝 Connect With Me
 
-<img src="https://img.shields.io/badge/LangGraph-blue?style=for-the-badge"/>
+- Portfolio: https://indrakaran1411.github.io/
+- LinkedIn: https://www.linkedin.com/in/indrakarangajula
+- GitHub: https://github.com/Indrakaran1411
 
-<img src="https://img.shields.io/badge/RAG-success?style=for-the-badge"/>
+---
 
-<img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/QLoRA-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLMs-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/VectorDB-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/GenerativeAI-blueviolet?style=for-the-badge"/>
-
-</p>
-
-<hr>
-
-<h2 align="center">🏆 Key Projects</h2>
-
-<table>
-<tr>
-<td width="50%">
-
-<h3>🧠 Fine-Tuned Mistral LLM</h3>
-
-✔ QLoRA Fine-Tuning
-
-✔ HuggingFace PEFT
-
-✔ Medical AI Assistant
-
-✔ 65% Memory Optimization
-
-</td>
-
-<td width="50%">
-
-<h3>🤖 Insurance Policy RAG</h3>
-
-✔ LangChain + Gemini
-
-✔ Qdrant Vector DB
-
-✔ FastAPI Backend
-
-✔ Semantic Search
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<h3>📊 Customer Churn Prediction</h3>
-
-✔ XGBoost
-
-✔ SMOTE
-
-✔ GridSearchCV
-
-✔ FastAPI Deployment
-
-</td>
-
-<td>
-
-<h3>🩺 Diabetes Risk Assessment</h3>
-
-✔ Autoencoders
-
-✔ Random Forest
-
-✔ Docker
-
-✔ AWS EC2
-
-</td>
-</tr>
-</table>
-
-<hr>
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=indrakaran1411&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrakaran1411&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=indrakaran1411&theme=tokyonight&hide_border=true"/>
-</p>
-
-<hr>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=indrakaran1411&theme=algolia&column=7&no-frame=true"/>
-</p>
-
-<hr>
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=indrakaran1411&theme=react-dark&hide_border=true"/>
-</p>
-
-<hr>
-
-<h2 align="center">🌱 Currently Learning</h2>
-
-<p align="center">
-
-🧠 Advanced LLM Fine-Tuning <br>
-🤖 Agentic AI Systems <br>
-☁️ AWS Cloud Architecture <br>
-🔄 LangGraph Workflows <br>
-⚙️ MLOps & Model Monitoring <br>
-🏗️ System Design
-
-</p>
-
-<hr>
-
-<h2 align="center">🤝 Let's Connect</h2>
-
-<p align="center">
-
-<a href="https://indrakaran1411.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
-</a>
-
-</p>
-
-<h3 align="center">
-⭐ Building AI Products That Create Real Impact ⭐
-</h3>
+> "Building AI systems that solve real-world problems."
