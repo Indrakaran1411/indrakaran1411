@@ -109,35 +109,76 @@ Key Metrics:
 
 ---
 
-## 📊 Professional Analytics
-
-<div align="center">
+## 📊 GitHub Analytics & Performance
 
 ### 📈 GitHub Statistics
-![Indrakaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indrakaran1411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Indrakaran1411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=ffffff&title_color=1F6FEB&icon_color=1F6FEB)
 
 </div>
 
+### 🔥 Contribution Streak  
 <div align="center">
 
-### 🔥 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Indrakaran1411&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Indrakaran1411&theme=tokyonight&hide_border=true&background=0d1117&stroke=1F6FEB)
 
 </div>
-
-<div align="center">
 
 ### 💻 Language Distribution
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrakaran1411&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 <div align="center">
 
-### 📅 Annual Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Indrakaran1411&theme=tokyo-night&hide_border=true&radius=16)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrakaran1411&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=1F6FEB&card_width=450)
 
 </div>
+
+### 📅 Annual Contribution Activity
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Indrakaran1411&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1F6FEB&line=1F6FEB&point=1F6FEB&area_color=1F6FEB)
+
+</div>
+
+---
+
+## 🏆 Academic & Professional Achievements
+
+### 🎓 Educational Excellence
+```
+RANK & HONORS
+├─ 🥇 Top 0.3 Percentile     → JEE Mains (National Engineering Entrance Exam)
+├─ 🥈 National Runner-Up      → Abacus & Mental Arithmetic Competition
+├─ 🏅 Top 0.2% Rank          → EAMCET (Engineering Entrance Exam)
+├─ 🏅 Top 0.05 Percentile    → TS-POLYCET (Telangana Polytechnic Entrance)
+└─ 🎓 B.Tech Degree          → Aerospace Engineering, IIT Madras (2024)
+
+COMPETITIVE PERFORMANCE
+├─ All India Rank (AIR) in National Exams
+├─ Merit-based Scholarship Recipient
+├─ Top Performer in Advanced Courses
+└─ Research-oriented Coursework
+```
+
+### 💼 Professional Milestones
+```
+PRODUCTION EXPERIENCE
+├─ 30+ Full-Scale Production Projects Deployed
+├─ 18+ AI/ML Systems in Active Production
+├─ 25+ Cloud Infrastructure Deployments
+├─ 98%+ Average Model Accuracy Across Projects
+├─ 99.7% Average System Uptime SLA
+├─ 1000+ Successful Client Implementations
+├─ $50M+ Total Project Value Managed
+└─ Zero Critical Security Breaches (50+ Deployments)
+
+SYSTEM SCALE ACHIEVED
+├─ 1B+ Transactions Processed
+├─ 100K+ Active Users Supported
+├─ 1000+ Concurrent User Capacity
+├─ <200ms Average API Response Time
+├─ 500K+ Stored Vectors in Production
+└─ 24/7 System Uptime Maintained
+```
 
 ---
 
@@ -165,7 +206,7 @@ Component Overview:
 - ✅ 99.7% system availability SLA
 - ✅ Reduced operational costs by $2M+ annually
 
-[📂 Repository](https://github.com/Indrakaran1411/AgentOS-An-LLM-Driven-Autonomous-Inventory-Management-System) | [📊 Documentation](https://github.com/Indrakaran1411/AgentOS-An-LLM-Driven-Autonomous-Inventory-Management-System)
+[📂 Repository](https://github.com/Indrakaran1411/AgentOS-An-LLM-Driven-Autonomous-Inventory-Management-System)
 
 ---
 
@@ -268,75 +309,16 @@ ML Pipeline:
 
 ### ⭐ Tier-2: Advanced Systems
 
-#### 6. 💰 **FraudSentry - Fraud Detection Engine**
-**Real-time Anomaly Detection**
-- 🚨 96% fraud detection accuracy
-- 📊 100K+ transactions/hour processing
-- ⚡ <50ms detection latency
-- [📂 Repository](https://github.com/Indrakaran1411/FraudSentry)
-
-#### 7. 📊 **CreditLens - Risk Analytics**
-**Enterprise Credit Assessment**
-- 🏦 5000+ loan decisions/month
-- 📈 92% approval accuracy
-- 💼 $50M+ in loans processed
-- [📂 Repository](https://github.com/Indrakaran1411/CreditLens-Automated-Credit-Risk-Assessment-System)
-
-#### 8. ⚡ **European Power Forecast**
-**Energy Demand Prediction**
-- 📈 LSTM + Prophet hybrid models
-- 🔮 MAPE < 3% accuracy
-- 🌍 Serves 15+ countries
-- [📂 Repository](https://github.com/Indrakaran1411/European-power-forecast)
-
-#### 9. 👨‍💼 **Faculty Search System**
-**Semantic Matching Engine**
-- 🔍 95% relevance in top-3 matches
-- 🧠 10M+ vector embeddings
-- 🚀 <100ms retrieval time
-- [📂 Repository](https://github.com/Indrakaran1411/faculty-search-system)
-
-#### 10. 🔐 **JWT Security Framework**
-**Enterprise Authentication**
-- 🔒 Zero security breaches (50+ deployments)
-- 👥 Full RBAC implementation
-- 📝 Complete audit logging
-- [📂 Repository](https://github.com/Indrakaran1411/JWT-Authentication-project)
-
-#### 11. 📊 **Admin Monitoring Dashboard**
-**Real-time System Metrics**
-- 📈 99.9% uptime monitoring
-- ⚡ <1s metric updates
-- 🎨 Interactive visualizations
-- [📂 Repository](https://github.com/Indrakaran1411/admin-monitor)
-
-#### 12. 🌐 **FuelEU Maritime Platform**
-**Shipping Compliance System**
-- ⛵ 200+ maritime company users
-- 📊 Regulatory compliance tracking
-- 🎯 100% audit pass rate
-- [📂 Repository](https://github.com/Indrakaran1411/fueleu-maritime-platform)
-
-#### 13. 📧 **Intelligent Email Agent**
-**AI-Powered Email Automation**
-- 🤖 80% processing time reduction
-- 📧 10K+ emails/day handled
-- ⚙️ Custom workflow support
-- [📂 Repository](https://github.com/Indrakaran1411/Email-ai-agent)
-
-#### 14. 📉 **Trader Behavior Analytics**
-**Market Intelligence System**
-- 📊 15+ behavioral patterns identified
-- 💹 Predictive accuracy: 88%
-- 📈 Real-time market analysis
-- [📂 Repository](https://github.com/Indrakaran1411/-Trader-behavior-analysis)
-
-#### 15. 💼 **Customer Service Platform**
-**Full-Stack Support System**
-- 🤖 Intelligent ticket routing
-- 📱 Real-time chat interface
-- 💾 Comprehensive CRM integration
-- [📂 Repository](https://github.com/Indrakaran1411/Customer_service_agent)
+#### 6. 💰 **FraudSentry** | 96% Accuracy | 100K+ tx/hr | [🔗 Repo](https://github.com/Indrakaran1411/FraudSentry)
+#### 7. 📊 **CreditLens** | 5000 decisions/mo | $50M processed | [🔗 Repo](https://github.com/Indrakaran1411/CreditLens-Automated-Credit-Risk-Assessment-System)
+#### 8. ⚡ **Power Forecast** | MAPE <3% | Serves 15+ countries | [🔗 Repo](https://github.com/Indrakaran1411/European-power-forecast)
+#### 9. 👨‍💼 **Faculty Search** | 95% relevance | 10M vectors | [🔗 Repo](https://github.com/Indrakaran1411/faculty-search-system)
+#### 10. 🔐 **JWT Framework** | Zero breaches | Full RBAC | [🔗 Repo](https://github.com/Indrakaran1411/JWT-Authentication-project)
+#### 11. 📊 **Admin Dashboard** | 99.9% uptime | Real-time metrics | [🔗 Repo](https://github.com/Indrakaran1411/admin-monitor)
+#### 12. 🌐 **Maritime Platform** | 200+ users | Compliance tracking | [🔗 Repo](https://github.com/Indrakaran1411/fueleu-maritime-platform)
+#### 13. 📧 **Email Agent** | 80% time saved | 10K+ emails/day | [🔗 Repo](https://github.com/Indrakaran1411/Email-ai-agent)
+#### 14. 📉 **Trader Analytics** | 15+ patterns | 88% accuracy | [🔗 Repo](https://github.com/Indrakaran1411/-Trader-behavior-analysis)
+#### 15. 💼 **Support Platform** | Intelligent routing | Real-time chat | [🔗 Repo](https://github.com/Indrakaran1411/Customer_service_agent)
 
 ---
 
@@ -350,27 +332,6 @@ ML Pipeline:
 | **System Design** | Microservices, Scalability, Performance | ⭐⭐⭐⭐☆ | Advanced |
 | **Cloud Architecture** | AWS, Kubernetes, CI/CD, Infrastructure | ⭐⭐⭐⭐☆ | Advanced |
 | **Data Engineering** | ETL, Data Pipelines, Streaming | ⭐⭐⭐⭐☆ | Advanced |
-
----
-
-## 🏆 Academic & Professional Achievements
-
-```
-ACADEMIC EXCELLENCE
-├─ 🥇 Top 0.3 Percentile      → JEE Mains (National Exam)
-├─ 🥈 National Runner-Up       → Abacus & Mental Arithmetic
-├─ 🏅 Top 0.2% Rank           → EAMCET (Engineering Exam)
-├─ 🏅 Top 0.05 Percentile     → TS-POLYCET
-└─ 🎓 B.Tech Degree           → Aerospace Engineering, IIT Madras
-
-PROFESSIONAL MILESTONES
-├─ 30+ Production Projects Deployed
-├─ 18+ AI/ML Systems in Production
-├─ 98%+ Average Model Accuracy
-├─ 1000+ Successful Implementations
-├─ $50M+ Total Value Managed
-└─ 99.7% Average System Uptime
-```
 
 ---
 
