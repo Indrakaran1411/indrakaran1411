@@ -1,12 +1,12 @@
 # 👋 Gajula Indra Karan
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF6B6B&width=900&lines=ML%2FAI+Specialist;Full-Stack+Developer;Generative+AI+Engineer;Building+Intelligent+Systems;Solving+Complex+Problems)](https://github.com/Indrakaran1411)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=1F6FEB&width=900&lines=ML%2FAI+Specialist;Full-Stack+Developer;Generative+AI+Engineer;Building+Intelligent+Systems;Solving+Complex+Problems)](https://github.com/Indrakaran1411)
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Indrakaran1411&color=FF6B6B&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Indrakaran1411&color=1F6FEB&style=flat-square&label=PROFILE+VIEWS)
 ![GitHub Followers](https://img.shields.io/github/followers/Indrakaran1411?style=social&label=Followers)
-![Years Active](https://img.shields.io/badge/Active%20Since-2024-blue?style=flat-square)
+![Years Active](https://img.shields.io/badge/Active%20Since-2024-1F6FEB?style=flat-square)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Indrakaran1411&theme=nord&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/Indrakaran1411)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Indrakaran1411&theme=darkhub&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/Indrakaran1411)
 
 </div>
 
@@ -53,7 +53,7 @@ Key Metrics:
 
 <p align="center">
   <a href="https://indrakaran1411.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/indrakarangajula" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -111,27 +111,32 @@ Key Metrics:
 
 ## 📊 Professional Analytics
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>📈 GitHub Statistics</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Indrakaran1411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-    </td>
-    <td align="center" width="50%">
-      <h3>🔥 Contribution Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indrakaran1411&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
-  <h3>💻 Language Distribution</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indrakaran1411&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+### 📈 GitHub Statistics
+![Indrakaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indrakaran1411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
 </div>
 
 <div align="center">
-  <h3>📅 Annual Contribution Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Indrakaran1411&theme=tokyo-night&hide_border=true&radius=16" alt="Activity Graph"/>
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Indrakaran1411&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+### 💻 Language Distribution
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrakaran1411&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+### 📅 Annual Contribution Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Indrakaran1411&theme=tokyo-night&hide_border=true&radius=16)
+
 </div>
 
 ---
@@ -184,7 +189,7 @@ Architecture:
 - ✅ Handles 1M+ concurrent requests/day
 - ✅ Cost reduction: 65% vs traditional methods
 
-[📂 Repository](https://github.com/Indrakaran1411/fine_tune_LLM) | [🔗 Live Demo](https://github.com/Indrakaran1411/fine_tune_LLM)
+[📂 Repository](https://github.com/Indrakaran1411/fine_tune_LLM)
 
 ---
 
@@ -337,9 +342,9 @@ ML Pipeline:
 
 ## 🎯 Technical Competencies Matrix
 
-| Domain | Expertise | Level | Certifications |
-|--------|-----------|-------|-----------------|
-| **Generative AI** | LLMs, RAG, Fine-tuning, Prompt Engineering | ⭐⭐⭐⭐⭐ | Advanced |
+| Domain | Expertise | Level | Status |
+|--------|-----------|-------|--------|
+| **Generative AI** | LLMs, RAG, Fine-tuning, Prompt Engineering | ⭐⭐⭐⭐⭐ | Expert |
 | **Machine Learning** | Classification, Regression, Ensemble, Time-Series | ⭐⭐⭐⭐⭐ | Expert |
 | **Full-Stack Dev** | React, Node.js, FastAPI, Django | ⭐⭐⭐⭐⭐ | Expert |
 | **System Design** | Microservices, Scalability, Performance | ⭐⭐⭐⭐☆ | Advanced |
@@ -487,7 +492,5 @@ SEEKING OPPORTUNITIES IN:
 **Open to Remote Opportunities | Available for Consulting**
 
 Last Updated: June 2025
-
-![Footer Wave](https://user-images.githubusercontent.com/74038190/213911799-b1e62e9c-6830-4a46-93f0-b109b3f86dc0.gif)
 
 </div>
